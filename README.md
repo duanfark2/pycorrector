@@ -1,4 +1,7 @@
 
+sukisuki
+
+
 ![alt text](docs/pycorrector.png)
 
 [![PyPI version](https://badge.fury.io/py/pycorrector.svg)](https://badge.fury.io/py/pycorrector)
